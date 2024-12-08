@@ -10,9 +10,10 @@ See the CSV result: [comments.csv](comments.csv)
 
 # Usage
 
-1. Update `new_url` URL in [index.js](index.js)
+1. Update `newsurl` URL in [index.js](index.js)
 	```js
-	var start_url = '[https://vnexpress.net/tin-tuc/phap-luat](https://vnexpress.net/xa-hoi-hoa-mot-chiec-laptop-4800323.html)';
+	var newsUrl = 'https://vnexpress.net/vi-sao-duong-sat-toc-do-cao-di-vong-qua-tinh-nam-dinh-4807531.html';
+
 	```
 
 2. Run the `index.js`
